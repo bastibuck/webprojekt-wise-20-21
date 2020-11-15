@@ -9,3 +9,9 @@ Hier findet ihr alle Materialien, die ich euch zur Verfügung stellen möchte. S
 ### Lektionen
 
 - [**Lektion 01: Auftakt**](https://github.com/bastibuck/webprojekt-wise-20-21/tree/main/lesson-01) - Wer bin ich und was mache ich eigentlich hier?
+- [**Lektion 02: HTML**](https://github.com/bastibuck/webprojekt-wise-20-21/tree/main/lesson-02) - Inhalte strukturieren
+- Lektion 03: HTML & CSS - Wie wird das jetzt schön?
+- Lektion 04: CSS - Schönheit 2.0
+- Lektion 05: Live-Coding HTML & CSS - Wie arbeitet ein Webentwickler?
+- Lektion 06: JS - Wenn dies, dann das
+- to be continued...
