@@ -1,0 +1,71 @@
+body {
+  font-size: 18px;
+  font-family: sans-serif;
+}
+
+header {
+  background: #c5ee9f;
+  padding: 20px;
+  color: #003362;
+}
+
+h1 {
+  max-width: 1400px;
+  margin: auto;
+}
+
+main {
+  max-width: 1400px;
+  margin: auto;
+}
+
+.divider-headline {
+  color: #099bf0;
+}
+
+#my-id {
+  color: green;
+}
+
+ul li > strong {
+  color: red;
+}
+
+.basti {
+  background: purple;
+}
+
+#coding {
+  color: blue;
+}
+
+.live {
+  color: green;
+}
+
+h2 {
+  color: deeppink;
+}
+
+h2 {
+  color: goldenrod;
+}
+
+.style-me {
+  background: hotpink;
+  width: 300px;
+  height: 200px;
+  padding: 15px;
+  border: 10px solid black;
+  margin: 50px;
+  /* text-align: center; */
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: rotate(-5.36deg);
+}
+
+iframe {
+  border: none;
+}
